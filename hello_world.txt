@@ -1,0 +1,1 @@
+Checking out features in Git.
